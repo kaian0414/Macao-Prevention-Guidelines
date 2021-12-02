@@ -1,6 +1,9 @@
 # Macao-Prevention-Guidelines
 Getting the new guidelines of "Government Departments and Public Facilities" and "Educational Settings and Social Residential Facilities".
 
+## Demo video
+https://youtu.be/lFXeOgl31Ck
+
 ## Results
 No matter there exist 0 or many guidelines at that day, it will provide log outcome about the result. 
 
